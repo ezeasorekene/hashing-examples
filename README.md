@@ -16,7 +16,7 @@
 [Hashing with HMAC](sha256-hmac.md)
 
 ### Credit
-[Jasny](https://gist.github.com/jasny)
+[Arnold Daniels](https://gist.github.com/jasny)
 
 ### Contributors
 [Ekene Ezeasor](https://github.com/ezeasorekene)
